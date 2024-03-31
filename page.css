@@ -1,0 +1,26 @@
+.pagecontainer{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    background-image:url('butterfly.jpg');
+    background-size: cover;
+    margin-top:8cm;
+}
+.container{
+    width: 7cm;
+    height:10cm;
+    padding:2cm ;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border:3px solid white;
+   border-radius: 10px;
+   backdrop-filter: blur(20px);
+   
+
+}
+.input{
+    width: 7cm;
+    height: 1cm;
+    margin-top: 5px;
+    border-radius: 8px;
+}
